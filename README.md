@@ -49,7 +49,8 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot 2025-11-12 215716" src="https://github.com/user-attachments/assets/e0e3e65b-5476-4ac2-b3d2-822d4b0a45f3" />
 
 **Output-Timing Diagram:**
-<img width="1920" height="1080" alt="Screenshot 2025-11-12 215716" src="https://github.com/user-attachments/assets/7e49605a-83c1-412a-ba2a-398d0a27b5da" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/025bcfd7-ddcb-4136-a376-6860d8c39b3b" />
+
 
 **Result:**
 
